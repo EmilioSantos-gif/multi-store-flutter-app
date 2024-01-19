@@ -1,6 +1,7 @@
 # multi_store_web_app
 
-A new Flutter project.
+A Multi Store Flutter App project.
+By Emilio Santos | ID 1091415
 
 ## Getting Started
 
