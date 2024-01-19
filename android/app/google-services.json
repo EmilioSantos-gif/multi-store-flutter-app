@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280403908884",
+    "project_id": "multi-store-admin-01",
+    "storage_bucket": "multi-store-admin-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280403908884:android:a423f8a4c49d55e1520a01",
+        "android_client_info": {
+          "package_name": "com.esantos.multi_store_web_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ8RNOqnV8bxGlC9xlhjLRNRjIOa5OaZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
